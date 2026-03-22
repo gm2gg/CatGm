@@ -1,4 +1,5 @@
 # CatGm
+download - https://github.com/gm2gg/CatGm/releases/download/CatGm/catgm.exe
 Minimalist programming language interpreter written in C. Executes commands from .catgm files.
 
 ## Requirements
